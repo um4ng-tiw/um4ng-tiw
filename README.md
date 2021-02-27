@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-iota-ivory.vercel.app//api/spotify-playing" alt="um4ng-tiw Spotify Playing" width="350" />](https://open.spotify.com/user/utiwari18)
+[<img src="https://novatorem-iota-ivory.vercel.app/api/spotify-playing" alt="um4ng-tiw Spotify Playing" width="350" />](https://open.spotify.com/user/utiwari18)
 
 ### Connect with me:
 
