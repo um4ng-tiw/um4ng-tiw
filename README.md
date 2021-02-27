@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning whatever I find fascinating 🤣
 - 👯 I’m looking to collaborate with other friendly nerds and content creators
 - 🥅 2021 Goals: Start contributing to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
 ### Spotify Playing 🎧
 
