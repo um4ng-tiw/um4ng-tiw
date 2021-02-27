@@ -1,6 +1,6 @@
 ### Hi there, I'm Umang 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full Stack Web Developer and ML/AI Enthusiast!!
 
 - 🔭 I'm deeply invested in Deep Learning 🤓
 - 🌱 I’m currently learning whatever I find fascinating 🤣
