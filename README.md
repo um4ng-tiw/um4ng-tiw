@@ -8,9 +8,6 @@
 - 🥅 2021 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
-### Spotify Playing 🎧
-
-[![Spotify](https://um4ng-tiw.vercel.app/api/spotify)](https://open.spotify.com/user/utiwari18)
 
 ### Connect with me:
 
