@@ -41,12 +41,10 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Umang's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=um4ng-tiw&show_icons=true&theme=onedark&hide_border=true" />
 
-</details>
 
 [![Top Langs](https://github-readme-stats-ten-roan.vercel.app/api/top-langs/?username=um4ng-tiw)](https://github.com/um4ng-tiw/github-readme-stats)
 
