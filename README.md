@@ -1,4 +1,4 @@
-### Hi there, I'm Umang 👋
+### Hi there, I'm Umang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## I'm a Full Stack Web Developer and a ML/AI Enthusiast!!
 
@@ -10,10 +10,7 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[![Linkedin Badge](https://img.shields.io/badge/-Umang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@oxymoronguy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
 <br />
 
 ### Languages and Tools:
