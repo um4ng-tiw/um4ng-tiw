@@ -10,7 +10,7 @@
 
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Umang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@oxymoronguy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-Umang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@oxy.moronguy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
 <br />
 
 ### Languages and Tools:
