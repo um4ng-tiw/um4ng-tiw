@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
 <p align="center">
-  <img src="./Readme_pic.gif" width="500px">
+  <img src="./Readme_pic.gif" width="400px">
 </p>
 
 
