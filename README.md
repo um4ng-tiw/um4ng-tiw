@@ -8,7 +8,10 @@
 - 🥅 2021 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
-![gifpic]
+<p align="center">
+  <img src="./Readme_pic.gif" width="500px">
+</p>
+
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Umang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@oxy.moronguy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
