@@ -42,4 +42,4 @@
 [instagram]: https://www.instagram.com/oxy.moronguy/
 [linkedin]: https://www.linkedin.com/in/umang-tiwari-bb9781193/
 [github]: https://github.com/um4ng-tiw/
-[gifpic]: ./Readme_gif.gif
+[gifpic]: ./Readme_pic.gif
