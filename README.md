@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
+![gifpic]
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Umang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@oxy.moronguy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
@@ -41,3 +42,4 @@
 [instagram]: https://www.instagram.com/oxy.moronguy/
 [linkedin]: https://www.linkedin.com/in/umang-tiwari-bb9781193/
 [github]: https://github.com/um4ng-tiw/
+[gifpic]: ./Readme_gif.gif
