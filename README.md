@@ -1,5 +1,9 @@
 ### Hi there, I'm Umang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<img align="right" src="./Readme_pic.gif" width="350px">
+
+
+
 ## I'm a Full Stack Web Developer and a ML/AI Enthusiast!!
 
 - 🔭 I'm deeply invested in Deep Learning 🤓
@@ -8,9 +12,6 @@
 - 🥅 2021 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
-<p align="center">
-  <img src="./Readme_pic.gif" width="400px">
-</p>
 
 
 ### Connect with me:
