@@ -6,16 +6,19 @@
 
 ## I'm a Full Stack Web Developer and a ML/AI Enthusiast!!
 
+<br />
+
 - 🔭 I'm deeply invested in Deep Learning 🤓
 - 🌱 I’m currently learning whatever I find fascinating 🤣
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2021 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
-
+<br />
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Umang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@oxy.moronguy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
+<br />
 <br />
 
 ### Languages and Tools:
