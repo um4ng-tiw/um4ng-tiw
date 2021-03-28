@@ -8,7 +8,7 @@
 
 - 🔭 I'm deeply invested in Deep Learning 🤓
 - 🌱 I’m currently learning whatever I find fascinating 🤣
-- 👯 I’m looking to collaborate with other friendly nerds and content creators
+- 👯 I’m looking to collaborate with other coders
 - 🥅 2021 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
