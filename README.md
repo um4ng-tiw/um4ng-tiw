@@ -44,8 +44,12 @@
 <img align="left" alt="Umang's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=um4ng-tiw&show_icons=true&theme=vue&hide_border=false" />
 
 
+
 [![Top Langs](https://github-readme-stats-ten-roan.vercel.app/api/top-langs/?username=um4ng-tiw)](https://github.com/um4ng-tiw/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=um4ng-tiw&color=blue)
+
+<!--Links -->
 [instagram]: https://www.instagram.com/oxy.moronguy/
 [linkedin]: https://www.linkedin.com/in/umang-tiwari-bb9781193/
 [github]: https://github.com/um4ng-tiw/
