@@ -47,7 +47,7 @@
 
 [![Top Langs](https://github-readme-stats-ten-roan.vercel.app/api/top-langs/?username=um4ng-tiw)](https://github.com/um4ng-tiw/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=um4ng-tiw&color=blue)
+
 
 <!--Links -->
 [instagram]: https://www.instagram.com/oxy.moronguy/
