@@ -8,10 +8,9 @@
 
 <br />
 
-- 🔭 I'm deeply invested in Deep Learning 🤓
-- 🌱 I’m currently learning whatever I find fascinating 🤣
+- 🔭 I'm currently invested in learning about blockchain technology ⛓️
 - 👯 I’m looking to collaborate with other coders
-- 🥅 2021 Goals: Start contributing to Open Source projects
+- 🥅 2022 Goals: Learning web3 technologies and blockchain coding
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
 <br />
