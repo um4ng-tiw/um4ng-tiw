@@ -39,7 +39,8 @@
 
 <br />
 
----
+<!-- UNCOMMENT THE BELOW LINES WHEN YOU GET TIME -->
+<!-- --- -->
 <!-- <img align="left" alt="Umang's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=um4ng-tiw&show_icons=true&theme=vue&hide_border=false" />
 
 
