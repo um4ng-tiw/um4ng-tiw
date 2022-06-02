@@ -1,6 +1,6 @@
-### Hi there, I'm Umang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there, I'm Umang
 
-<img align="right" src="./Readme_pic.gif" width="350px">
+<!-- <img align="right" src="./Readme_pic.gif" width="100px"> -->
 
 
 
