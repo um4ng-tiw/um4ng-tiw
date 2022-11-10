@@ -8,9 +8,9 @@
 
 <br />
 
-- 🔭 I'm currently invested in learning about blockchain technology ⛓️
+- 🔭 I'm currently invested in working with one of the biggest payment aggregators in the country 💰
 - 👯 I’m looking to collaborate with other coders
-- 🥅 2022 Goals: Learning web3 technologies and blockchain coding
+- 🥅 2022 Goals: Learning high level system design and building scalable systems
 - ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
 
 <br />
