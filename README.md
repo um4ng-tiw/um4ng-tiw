@@ -1,56 +1,66 @@
-### Hi there, I'm Umang
+<h1 align="center">Hi, I'm Umang 👋</h1>
+<h3 align="center">Backend Engineer • Payments Systems • ML/AI Enthusiast</h3>
 
-<!-- <img align="right" src="./Readme_pic.gif" width="100px"> -->
+---
+
+## 🧠 About Me
+
+- 💼 Previously worked at **PayU**
+- 🏦 Currently working at **Tide (SDE-3)**
+- 💳 Building **payments and expense experiences for Tide cards**
+- ⚙️ Passionate about **high-scale backend systems & performance engineering**
+- 🤖 Deep interest in **ML/AI — from local LLM inference to model architecture and theory**
+- 🧩 Love solving **complex system design & data consistency problems**
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,sql" />
+</p>
+
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,postgres,redis,kafka,sqs" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" />
+</p>
+
+### 🧠 Interests
+- Distributed Systems  
+- High Frequency / Low Latency Architectures  
+- Transaction Routing & Optimization  
+- Database Scaling (OLTP → OLAP separation)  
+
+## 📈 What I'm Currently Focused On
+
+- Designing **fault-tolerant, high-throughput payment systems**
+- Exploring **event-driven architectures & CQRS**
+- Optimizing **database-heavy systems at scale (~TB datasets)**
+- Experimenting with **local LLMs and efficient inference on constrained hardware**
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/umang-tiwari-bb9781193/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+## ⚡ Philosophy
+
+> Build systems that **scale, fail gracefully, and recover intelligently.**
+
+<!-- Optional Stats (Uncomment if needed) -->
 
 
+<!-- ## 📊 GitHub Stats
 
-## I'm a Full Stack Web Developer and a ML/AI Enthusiast!!
-
-<br />
-
-- 🔭 I'm currently invested in working with one of the biggest payment aggregators in the country 💰
-- 👯 I’m looking to collaborate with other coders
-- 🥅 2022 Goals: Learning high level system design and building scalable systems
-- ⚡ Fun fact: I love listening to a wide genre of music & watching animes.
-
-<br />
-
-### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Umang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@oxy.moronguy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
-<br />
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-
-<br />
-
-<!-- UNCOMMENT THE BELOW LINES WHEN YOU GET TIME -->
-<!-- --- -->
-<!-- <img align="left" alt="Umang's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=um4ng-tiw&show_icons=true&theme=vue&hide_border=false" />
-
-
-
-[![Top Langs](https://github-readme-stats-ten-roan.vercel.app/api/top-langs/?username=um4ng-tiw)](https://github.com/um4ng-tiw/github-readme-stats) -->
-
-
-
-<!--Links -->
-[instagram]: https://www.instagram.com/oxy.moronguy/
-[linkedin]: https://www.linkedin.com/in/umang-tiwari-bb9781193/
-[github]: https://github.com/um4ng-tiw/
-[gifpic]: ./Readme_pic.gif
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=um4ng-tiw&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=um4ng-tiw&layout=compact&theme=tokyonight" />
+</p>
+-->
